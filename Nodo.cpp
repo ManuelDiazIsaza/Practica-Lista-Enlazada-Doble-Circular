@@ -31,6 +31,7 @@ int Nodo::getInfo(){
     return info;
 }
 
+
 void Nodo::setSig(Nodo *sig){
     this -> sig = sig;
 }
